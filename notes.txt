@@ -1,0 +1,6 @@
+What will your software do? 
+track books and manga in sri lanka and find them for you
+What features will it have? 
+it will ist all the books found and show the prices
+How will it be executed?
+sql+flask+java+beautifulsoup
